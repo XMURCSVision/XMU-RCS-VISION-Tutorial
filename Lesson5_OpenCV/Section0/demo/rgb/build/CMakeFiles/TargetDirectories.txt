@@ -1,0 +1,3 @@
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section0/demo/rgb/build/CMakeFiles/rgb.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section0/demo/rgb/build/CMakeFiles/edit_cache.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section0/demo/rgb/build/CMakeFiles/rebuild_cache.dir

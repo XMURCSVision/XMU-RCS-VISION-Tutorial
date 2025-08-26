@@ -1,0 +1,3 @@
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/light_detector_1/build/CMakeFiles/detector_1.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/light_detector_1/build/CMakeFiles/edit_cache.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/light_detector_1/build/CMakeFiles/rebuild_cache.dir

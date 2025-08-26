@@ -1,0 +1,7 @@
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build/CMakeFiles/image.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build/CMakeFiles/video.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build/CMakeFiles/draw.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build/CMakeFiles/video_reverse.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build/CMakeFiles/video_circle.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build/CMakeFiles/edit_cache.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build/CMakeFiles/rebuild_cache.dir

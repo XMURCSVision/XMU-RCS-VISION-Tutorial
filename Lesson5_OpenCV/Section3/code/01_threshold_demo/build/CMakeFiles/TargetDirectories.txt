@@ -1,0 +1,5 @@
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section3/code/01_threshold_demo/build/CMakeFiles/threshold.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section3/code/01_threshold_demo/build/CMakeFiles/adaptive.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section3/code/01_threshold_demo/build/CMakeFiles/otsu.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section3/code/01_threshold_demo/build/CMakeFiles/edit_cache.dir
+/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section3/code/01_threshold_demo/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/image.dir/src/image.cpp.o -c /mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/image.cpp",
+  "file": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/image.cpp"
+},
+{
+  "directory": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/video.dir/src/video.cpp.o -c /mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/video.cpp",
+  "file": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/video.cpp"
+},
+{
+  "directory": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/draw.dir/src/draw.cpp.o -c /mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/draw.cpp",
+  "file": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/draw.cpp"
+},
+{
+  "directory": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/video_reverse.dir/src/video_reverse.cpp.o -c /mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/video_reverse.cpp",
+  "file": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/video_reverse.cpp"
+},
+{
+  "directory": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/video_circle.dir/src/video_circle.cpp.o -c /mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/video_circle.cpp",
+  "file": "/mnt/f/RM/00.RCS18_summer_course/Lesson5_OpenCV/Section1/src/video_circle.cpp"
+}
+]

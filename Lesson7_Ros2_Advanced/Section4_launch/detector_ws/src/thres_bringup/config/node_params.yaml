@@ -1,0 +1,5 @@
+/detect_node:
+  ros__parameters:
+    thresh: 120
+    detect_color:0  
+    
